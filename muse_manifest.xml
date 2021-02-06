@@ -1,0 +1,182 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pradhanpathsaala.in" resolutions="1x" timestamp="1612630860057">
+  <folder name="css">
+    <file name="site_global.css" crc="4150975065"/>
+    <file name="gallery.css" crc="4099342944" ref="gallery"/>
+    <file name="index.css" crc="4255182108" ref="index"/>
+    <file name="iefonts_index.css" crc="294102600" ref="index"/>
+    <file name="contact.css" crc="173493463" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gallery:contact"/>
+    <file name="museutils.js" crc="3939489907" ref="index:gallery:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gallery:contact"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:gallery:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:gallery:contact"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:gallery:contact"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:gallery:contact"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:gallery:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:gallery:contact"/>
+    <file name="require.js" crc="4177726516" ref="index:gallery:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3837670180" ref="index"/>
+    <file name="patrick-tomasso-oaqk7qqnh_c-unsplash.jpg" crc="535717922" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-u580-fr.png" crc="3991562997" ref="index:gallery:contact"/>
+    <file name="new.png" crc="3972175478" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4102706121" ref="index:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="index:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="mobile-phone.png" crc="3864038520" ref="index:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="studymaterials.jpg" crc="4138514795" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wwesdxc.jpg" crc="4146294159" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aswedrf.jpg" crc="3884110405" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonials.png" crc="4083760234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p7.jpg" crc="4230474419" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p8.jpg" crc="435617401" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p9.jpg" crc="300861052" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1.jpg" crc="439940231" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2.jpg" crc="262429777" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p3.jpg" crc="3864086125" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p4.jpg" crc="336770731" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5.jpg" crc="4129631760" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p6.jpg" crc="60468847" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="school-library-portraits-2-16x9-u305-fr.jpg" crc="221586868" ref="index"/>
+    <file name="teacherff.jpg" crc="527267700" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ls.jpg" crc="4219539470" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rplexpng.png" crc="3904316786" ref="index:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="logo-u885.png" crc="530586305" ref="index"/>
+    <file name="sdwxccvv.jpg" crc="463185109" ref="index:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="a06fbd10-061b-4a24-b6cb-79f20eb5f9dc.jpg" crc="219178806" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="3456.jpg" crc="3961638701" ref="gallery:contact">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="23.jpg" crc="3885535466" ref="gallery:contact">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u1647-4.png" crc="3883120910" ref="gallery"/>
+    <file name="dfeew.jpg" crc="125080973" ref="gallery:contact">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="sdew.jpg" crc="4156732426" ref="gallery:contact">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="95beb3d0-a665-48bd-8672-1173d5c4b0fa.jpg" crc="4241869934" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dcxsdc.jpg" crc="298191162" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="4aec83c2-3706-4a90-a4fb-dc678eb85595.jpg" crc="410813730" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="12aswq.jpg" crc="4047015044" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dewr.jpg" crc="3884651009" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dew.jpg" crc="3857331725" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="zxds.jpg" crc="3947514622" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="vcd.jpg" crc="6139722" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dfe.jpg" crc="417064649" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="p12.jpg" crc="4052770591" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="fgtr.jpg" crc="185565164" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="logo-u1789.png" crc="530586305" ref="gallery"/>
+    <file name="sdd (2).jpg" crc="108706837" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u2049-4.png" crc="478101615" ref="contact"/>
+    <file name="logo-u2198.png" crc="530586305" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="3793605387" seo="true" mt="1612629984858" redirect="true"/>
+  <file name="gallery.html" crc="4118054837" seo="true" mt="1612629706725" redirect="true"/>
+  <file name="contact.html" crc="97257601" seo="true" mt="1612629706725" redirect="true"/>
+</manifest>
